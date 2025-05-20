@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genre/shisandaihon.md",
+                "file": "mdaihon/資産2000万円_台本_起.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shisandaihon"
+              "title": "資産2000万円_台本_起"
             }
           }
         ],
@@ -213,12 +213,17 @@
   },
   "active": "fe2dbe423402b9f2",
   "lastOpenFiles": [
+    "mdaihon/資産2000万円_台本_結.md",
+    "mdaihon/資産2000万円_台本_転.md",
+    "mdaihon/資産2000万円_台本_承.md",
+    "mdaihon/資産2000万円_台本_起.md",
+    "mdaihon/資産2000万円プロット.md",
+    "mdaihon/資産2000万円_台本.md",
+    "genre/shisandaihon.md",
     "00_Inbox/shisan/2chコピペ.md",
     "投資台本_スプレッドシート用.md",
     "00_Inbox/shisan/末路ストーリーセリフ.md",
-    "genre/shisandaihon.md",
     "genre/shisanprot.md",
-    "mdaihon/資産2000万円プロット.md",
     "00_Inbox/shisan/小説作り方要約.md",
     "00_Inbox/shisan/元台本.md",
     "無題のファイル 1.canvas",
