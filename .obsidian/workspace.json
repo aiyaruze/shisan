@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d465d71700f9c647",
+    "type": "split",
+    "children": [
+      {
+        "id": "374ec825955c7133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c20e68e65e6c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genre/shisanprot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shisanprot"
+            }
+          },
+          {
+            "id": "d96c1aafe9898ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genre/shisandaihon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shisandaihon"
+            }
+          },
+          {
+            "id": "dabe4a348b013301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/shisan/末路ストーリーセリフ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "末路ストーリーセリフ"
+            }
+          },
+          {
+            "id": "fe2dbe423402b9f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genre/shisandaihon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shisandaihon"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "258ee9584cabbdb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "620b50fcb2aa49c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81d75bd3d42df31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "49103cd06da42fd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "f2d9e48260985d03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "647f2624189a7eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6891d7db329d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9857da2b96a5b8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "genre/shisanp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "shisanpへのバックリンク"
+            }
+          },
+          {
+            "id": "ed464d5291022d81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "genre/shisanp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "shisanpからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "78e29978b97331da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "f356ac3fc6e2e0cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "genre/shisanp.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "shisanpのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "fe2dbe423402b9f2",
+  "lastOpenFiles": [
+    "00_Inbox/shisan/2chコピペ.md",
+    "投資台本_スプレッドシート用.md",
+    "00_Inbox/shisan/末路ストーリーセリフ.md",
+    "genre/shisandaihon.md",
+    "genre/shisanprot.md",
+    "mdaihon/資産2000万円プロット.md",
+    "00_Inbox/shisan/小説作り方要約.md",
+    "00_Inbox/shisan/元台本.md",
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas",
+    "00_Inbox/shisan/お金ペルソナ.md",
+    "00_Inbox/shisan/お金系分析.md",
+    "00_Inbox/shisan/主人公特徴.md",
+    "genre/プロット.md",
+    "貯金3000万円で人生激変 のコピー - 記入シート.pdf",
+    "新NISAで満額の1800万円を埋めきると金の増え方がバグる - 記入シート.pdf",
+    "00_Inbox/shisan",
+    "00_Inbox"
+  ]
+}
